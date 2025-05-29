@@ -311,9 +311,9 @@ compress_html:
     envs: development
 
 
-# Defaults
+Defaults
 defaults:
-  # _pages
+   pages
   - scope:
       path: ""
       type: pages
