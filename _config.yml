@@ -141,12 +141,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
-      url: "mailto:olivia.m.martinez348@gmail.com
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
