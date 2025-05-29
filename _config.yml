@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Olivia M. Martinez"
   avatar           : assets/jim locket.jpg
-  bio              : "I am an **amazing** person."
+  bio              : "Welcome to Downtown Coolsville"
   location         : "Colorado"
   email            : "olivia.m.martinez348@gmail.com"
   links:
@@ -141,6 +141,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:olivia.m.martinez348@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
