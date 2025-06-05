@@ -43,10 +43,10 @@ feature_row4:
     btn_label: "Whatever you want your button to say" 
 ---
 
-Member of the [X lab](link to your lab's website)! 
+Member of the [Kading lab](link to your lab's website)! 
 
-# Reseach
-
+# Research
+## Investigation of vector-borne diseases using a One Health approach
 {% include feature_row id="feature_row1" type= "left" %}
 
 # Teaching
