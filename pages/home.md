@@ -4,7 +4,7 @@ permalink: /
      
 hidden: true
 header:
-  #image: /assets/images/header.jpeg
+  #image: /assets/MARC Photoshoot.jpg
 title: "  "
 tagline: "  "   
 author_profile: true
